@@ -1,4 +1,4 @@
-# BENCH – Dimension Cluster
+# BENCH – Dimension Cluster (FINAL)
 
 Der BENCH-Ordner enthält die drei Grunddimensionen des iki1uc-Systems:
 
@@ -15,4 +15,4 @@ Diese Module bilden die D-Achse und werden von VISUAL, MOTION, IO und RESPO genu
 - run.html – Lauf/Activation
 - score.html – Bench-Bewertung
 
-Status: GRÜN · FINAL
+Status: GRÜN · FINAL · reFINAL aktiv
