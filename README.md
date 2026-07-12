@@ -1,18 +1,17 @@
-# BENCH – Dimension Cluster (FINAL)
+# DIM – Ort / Position
 
-Der BENCH-Ordner enthält die drei Grunddimensionen des iki1uc-Systems:
+DIM ist die Positionsstation der BENCH‑Pipeline.
 
-- H = Höhe
-- B = Breite
-- T = Tiefe
+RESPO‑Träger:
+- RESPO.ORT → Stufe 1
 
-Diese Module bilden die D-Achse und werden von VISUAL, MOTION, IO und RESPO genutzt.
+Eigenschaften:
+- SYSTEM = OFF
+- IKI = OFF
+- MARKT = TRUE
+- TRANSPARENT = TRUE
+- INTERN = TRUE
 
-## Dateien
-- index.html – Übersicht
-- ID.html – Identität
-- list.html – Modul-Liste
-- run.html – Lauf/Activation
-- score.html – Bench-Bewertung
-
-Status: GRÜN · FINAL · reFINAL aktiv
+Pipeline:
+0 → 1 → 2 → 4  
+OI → DIM → IO → VAL
